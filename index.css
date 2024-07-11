@@ -1,0 +1,96 @@
+nav img{
+    width: 70px;
+}
+
+nav .text-matricula{
+    color:#97c9be;
+}
+#Principal img{
+    max-height: 70vh;
+    object-fit: cover;
+}
+#Principal{
+    position: relative;
+}
+#Principal #contenido{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgb(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    color: white;
+}
+#Principal .container,#Principal .row{
+    width: 100%;
+    height: 100%;
+
+}
+#Footer{
+    background-color: #112e4f;
+}
+#Footer a{
+    text-decoration: none;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%; /* Ajustar la altura del contenedor */
+ 
+   
+    
+}
+#uno{
+    font-size: 18px;
+    
+    border: 1px solid #112e4f;
+    height: 230px;
+    width: 700px;
+    background-color: #112e4f;
+    color: white;
+    margin-left: 170px;
+
+}
+#uno h1{
+
+    align-items: center;
+    text-align: center;
+    
+   
+}
+#uno img{
+
+height: 20px;
+width: 50px;
+margin-right: 10px;
+
+    
+   
+}
+#uno img{
+
+height: 20px;
+width: 50px;
+margin-right: 10px;
+
+    
+   
+}
+.cajon{
+    background-color: #112e4f;
+       height: 435px;
+       color: white;
+       bottom: 0;
+       right: 0;
+       padding-left: 25px;
+       padding-right: 20px;
+       padding-top: 30px;
+       font-size: 18px;
+    
+   }
+
+
+
+
+
+
